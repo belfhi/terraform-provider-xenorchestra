@@ -3,7 +3,7 @@ module github.com/ddelnano/terraform-provider-xenorchestra
 go 1.20
 
 require (
-	github.com/ddelnano/terraform-provider-xenorchestra/client v0.0.0-00010101000000-000000000000
+	github.com/ddelnano/terraform-provider-xenorchestra/client v0.0.0-20240207075918-67d73fa4e3fa
 	github.com/hashicorp/terraform-plugin-docs v0.18.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.32.0
 	github.com/ddelnano/terraform-provider-macaddress v0.1.0
